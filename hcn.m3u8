@@ -2,21 +2,19 @@
 #EXTINF:-1 group-title="央视",CCTV-1综合
 http://60.255.120.30:89/live2/live2.m3u8
 #EXTINF:-1 group-title="央视",CCTV-1综合
-http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225804/index.m3u8?
+https://node1.olelive.com:6443/live/CCTV1HD/hls.m3u8
 #EXTINF:-1 group-title="央视",CCTV-1综合
 https://live.metshop.top/bestv.php?id=cctv1hd8m/8000000
-#EXTINF:-1 group-title="央视",CCTV-1综合
-http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225804/index.m3u8?
+
 #EXTINF:-1 group-title="央视",CCTV-1综合
 http://222.240.82.92:9901/tsfile/live/0001_1.m3u8
 #EXTINF:-1 group-title="央视",CCTV-2财经
-http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226195/index.m3u8?
+http://221.2.146.228:8888/newlive/live/hls/3/live.m3u8
 #EXTINF:-1 group-title="央视",CCTV-2财经
 https://live.metshop.top/bestv.php?id=cctv2hd8m/8000000
 #EXTINF:-1 group-title="央视",CCTV-2财经
 https://live.goodiptv.club/api/cqyx.php?id=cctv2HD
-#EXTINF:-1 group-title="央视",CCTV-2财经
-http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226195/index.m3u8?
+
 #EXTINF:-1 group-title="央视",CCTV-2财经
 http://1.195.111.251:11190/tsfile/live/0002_1.m3u8
 #EXTINF:-1 group-title="央视",CCTV-3综艺
@@ -28,7 +26,7 @@ http://1.195.111.251:11190/tsfile/live/0003_1.m3u8
 #EXTINF:-1 group-title="央视",CCTV-3综艺
 http://222.240.82.92:9901/tsfile/live/0003_1.m3u8
 #EXTINF:-1 group-title="央视",CCTV-4中文国际
-http://39.134.24.161/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226191/index.m3u8?
+http://101.33.17.11/liveplay-kk. ... 8m/8000000/mnf.m3u8
 #EXTINF:-1 group-title="央视",CCTV-4中文国际
 http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226191/index.m3u8?
 #EXTINF:-1 group-title="央视",CCTV-4中文国际
@@ -89,6 +87,8 @@ http://159.75.85.63:5679/cctv4k.php
 http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226921/index.m3u8?
 #EXTINF:-1 group-title="卫视",湖南卫视
 http://221.2.36.34:8888/newlive/live/hls/23/live.m3u8
+#EXTINF:-1 group-title="卫视",湖南卫视
+http://119.39.128.18:88/hls/17/index.m3u8
 #EXTINF:-1 group-title="卫视",浙江卫视
 http://221.2.36.34:8888/newlive/live/hls/24/live.m3u8
 #EXTINF:-1 group-title="卫视",江苏卫视
