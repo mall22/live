@@ -1,17 +1,14 @@
 #EXTM3U
-#EXTINF:-1 group-title="央视",CCTV-1综合
-http://60.255.120.30:89/live2/live2.m3u8
+
 #EXTINF:-1 group-title="央视",CCTV-1综合
 https://node1.olelive.com:6443/live/CCTV1HD/hls.m3u8
-#EXTINF:-1 group-title="央视",CCTV-1综合
-https://live.metshop.top/bestv.php?id=cctv1hd8m/8000000
+
 
 #EXTINF:-1 group-title="央视",CCTV-1综合
 http://222.240.82.92:9901/tsfile/live/0001_1.m3u8
 #EXTINF:-1 group-title="央视",CCTV-2财经
 http://221.2.146.228:8888/newlive/live/hls/3/live.m3u8
-#EXTINF:-1 group-title="央视",CCTV-2财经
-https://live.metshop.top/bestv.php?id=cctv2hd8m/8000000
+
 #EXTINF:-1 group-title="央视",CCTV-2财经
 https://live.goodiptv.club/api/cqyx.php?id=cctv2HD
 
