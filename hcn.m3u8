@@ -25,6 +25,10 @@ http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226240/index.m3u8
 http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226190/index.m3u8
 #EXTINF:-1,CCTV13-新闻
 http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226233/index.m3u8
+#EXTINF:-1,CCTV-13新闻
+http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226233/index.m3u8?
+#EXTINF:-1,CCTV-13新闻
+http://223.95.111.98:5555/newlive/live/hls/13/live.m3u8
 #EXTINF:-1,CCTV14-少儿
 http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226193/index.m3u8
 #EXTINF:-1,CCTV15-音乐
