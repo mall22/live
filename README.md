@@ -1,3 +1,4 @@
-代理https://ghproxy.com/
+代理https://ghproxy.net/
+https://ghproxy.com/
 
 自用
