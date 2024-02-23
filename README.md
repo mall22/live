@@ -1,4 +1,4 @@
 代理https://ghproxy.net/
-https://ghproxy.com/
+https://mirror.ghproxy.com/
 
 自用
